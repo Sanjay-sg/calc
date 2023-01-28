@@ -34,12 +34,12 @@ Calc.html
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="/static/CSS/style.css">
+    <link rel="stylesheet" href="/static/css/styles.css">
     <title>Calculator</title>
 </head>
 <body>
     <div class="container">
-        <h1>Deeps Calculator</h1>
+        <h1>Achu's Calculator</h1>
 
         <div class="calculator">
             <input type="text" name="screen" id="screen">
@@ -79,7 +79,7 @@ Calc.html
     </div>
 
 </body>
-<script src="/static/JS/index.js"></script>
+<script src="/static/javascript/index.js"></script>
 </html>
 
 Style.css
